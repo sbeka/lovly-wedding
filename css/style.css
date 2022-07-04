@@ -28,7 +28,230 @@ URL:            http://themeforest.net/user/themexriver
 /*---------------------------
 	Fonts
 ----------------------------*/
-@import url("https://fonts.googleapis.com/css?family=Dosis:400,600,700|Great+Vibes");
+/*@import url("https://fonts.googleapis.com/css?family=Dosis:400,600,700|Great+Vibes");*/
+@font-face {
+  font-family: "Great Vibes";
+  src: url("../fonts/GoodVibesCyr.woff2") format("woff2");
+}
+
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Bold.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Bold.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Bold.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Italic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Italic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Light.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-LightItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Light.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-LightItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-BoldItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-BoldItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Light.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Italic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-LightItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-BoldItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-MediumItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Medium.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Medium.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-MediumItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-Medium.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('../fonts/blogger-sans/BloggerSans-MediumItalic.woff2') format('woff2'),
+  url('../fonts/blogger-sans/BloggerSans-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+
 /*--------------------------------------------------------------
 #0.1    Theme Reset Style
 --------------------------------------------------------------*/
@@ -1510,7 +1733,7 @@ a:focus {
   .header-style-1 #navbar > ul > li > a, .header-style-2 #navbar > ul > li > a {
     font-size: 18px;
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 400;
     color: #413d3d;
     padding: 35px 17px;
     text-transform: uppercase;
@@ -3145,6 +3368,7 @@ a:focus {
 --------------------------------------------------------------*/
 .gallery-section {
   /*** filter ***/
+  background: #f9f9f9;
 }
 
 .gallery-section .gallery-filters {
