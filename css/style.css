@@ -4287,4 +4287,9 @@ a:focus {
   border-radius: 0;
 }
 
+.invitation img {
+  max-width: 400px;
+  width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
